@@ -9,9 +9,9 @@ def breakfast(food = "frosted flakes")
   "9 am is a good time for breakfast"
 end
 
-def lunch(food = "")
-  puts "Morning is the best time for #{food}!"
-  "9 am is a good time for breakfast"
+def lunch(food = "grilled cheese")
+  puts "Lunch is the best time for #{food}!"
+  "12 pm is a good time for lunch"
 end
 
 
