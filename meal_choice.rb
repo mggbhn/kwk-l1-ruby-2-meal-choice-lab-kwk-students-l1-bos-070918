@@ -28,6 +28,9 @@ puts snacks("Swedish fish")
 
 # call your methods here
 
+breakfast
+lunch
+dinner
 
 # Call your methods without any arguments here
 puts snacks
