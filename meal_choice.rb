@@ -28,7 +28,7 @@ puts snacks("Swedish fish")
 
 # call your methods here
 
-breakfast("donuts")
+puts breakfast("donuts")
 breakfast
 lunch("sandwhich")
 lunch
