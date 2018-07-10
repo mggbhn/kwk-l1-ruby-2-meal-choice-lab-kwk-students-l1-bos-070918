@@ -33,7 +33,7 @@ puts breakfast
 puts lunch("sandwhich")
 puts lunch
 puts dinner("calzone")
-dinner
+puts dinner
 
 # Call your methods without any arguments here
 puts snacks
